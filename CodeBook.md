@@ -21,3 +21,5 @@ The script run_analysis.R performs all the 5 steps explained in the course proje
 3. data_activities contains the file `activity_labels.txt`. Correct activity name is updated from here.
 4. all_data merges data_all_X, data_all_Y and data_all_subject into a single dataset. Comprehensive names are updated in the dataset.
 5. And finally, avg contains the corresponding averages which is finally stored in `tidy_data.txt` file.
+
+
